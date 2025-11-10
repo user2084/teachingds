@@ -2,3 +2,6 @@ matplotlib
 ipywidgets
 numpy
 ipympl
+pandas
+scipy
+plotly
